@@ -76,7 +76,7 @@ const LeftButton = styled.div`
    text-transform: uppercase;
    font-size: 12px;
    cursor: pointer;
-   margin-left: 72.5px
+   margin-left: 35px
 
 `
 
@@ -93,7 +93,7 @@ const RightButton = styled.div`
    text-transform: uppercase;
    font-size: 12px;
    cursor: pointer;
-   margin-right: 7.5px;
+   margin-right: 40px;
 `
 
 const DownArrow = styled.img`
